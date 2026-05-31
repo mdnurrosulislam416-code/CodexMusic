@@ -49,14 +49,13 @@
 - Make sure your bot is admin in both the group and logger group
 - The assistant account will auto-join groups when needed for playback
 - Keep your `.env` file secure and never share it publicly
-- For YouTube downloads, cookies may be required for some videos
-- Radio streams are live - no duration limits or downloads needed
+- Use a second ID for the assistant ID 
 ---
 
 <div align="center">
   
   ### Made with ❤️ by Artist 
   
-  **© 2025 ˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼. All rights reserved.**
+  **© 2026 ˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼. All rights reserved.**
   
 </div>
