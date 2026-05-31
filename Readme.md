@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://files.catbox.moe/nhg5ko.png" alt="˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://files.catbox.moe/zlmv6v.png" alt="˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼" width="400"/>
   
-  # 🎵 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼
+  # 🎵 ˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
@@ -47,6 +47,6 @@
   
   ### Made with ❤️ by Artist 
   
-  **© 2025 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼. All rights reserved.**
+  **© 2025 ˹ᴀʀᴛɪꜱᴛ ᴍᴜꜱɪᴄ˼. All rights reserved.**
   
 </div>
